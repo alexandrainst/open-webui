@@ -321,6 +321,8 @@
 	<!-- feel free to make a PR to fix if anyone wants to see it return -->
 	<!-- <link rel="stylesheet" type="text/css" href="/themes/rosepine.css" />
 	<link rel="stylesheet" type="text/css" href="/themes/rosepine-dawn.css" /> -->
+
+	<link rel="stylesheet" type="text/css" href="/themes/custom.css" />
 </svelte:head>
 
 {#if loaded}
